@@ -1,0 +1,38 @@
+{
+    "net.minecraft.client.gui.screen.inventory.InventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 44
+            },
+            "SORT": {
+                "bottom": 67
+            },
+            "SORT_COLUMNS": {
+                "bottom": 67
+            },
+            "SORT_ROWS": {
+                "bottom": 67
+            }
+        }
+    },
+    "appeng.client.gui.me.items.ItemTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 110,
+                "top": -1
+            },
+            "SORT": {
+                "horizontalOffset": 115,
+                "top": -1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 114,
+                "top": -1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 113,
+                "top": -1
+            }
+        }
+    }
+}

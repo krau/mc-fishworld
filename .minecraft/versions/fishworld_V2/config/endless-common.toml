@@ -1,0 +1,150 @@
+
+#Endless Base Config
+[general]
+	#Endest pearl final explosion damage
+	#Range: 100 ~ 10000
+	"Endest Pearl End Damage" = 1000
+	#Endless crossbow firing fireworks damage
+	#Range: 5 ~ 10000
+	"Infinity Firework Damage" = 100
+	#Endless bow(cross) shooting light arrow damage
+	#Range: 5 ~ 100
+	"Sub Arrow Damage Bow" = 10
+	#Endest pearl gravitational range
+	#Range: 10 ~ 32
+	"Endest Pearl Suck Range" = 20
+	#Range damage value of the right key of endless sword
+	#Range: 10 ~ 100000
+	"Sword Range Damage" = 10000
+	#Chain number of endless axe cutting trees
+	#Range: 16 ~ 128
+	"Axe Chain Count" = 64
+	#Does the endless sword and bow destroy the chaotic crystal of DE
+	"Is Break DE Crystal" = false
+	#Whether the endless workbench is compatible with the original workbench formula
+	"Is Craft Table" = true
+	#Endest pearl whether destroys the bedrock
+	"Endest Pearl Is Break Bedrock" = true
+	#Upper limit of items stored in the mass
+	#Range: 8 ~ 64
+	"Matter Cluster Max Term" = 16
+	#Endless sword right click attack range
+	#Range: 8 ~ 64
+	"Sword Attack Range" = 32
+	#Whether the rock is damaged by the pickaxe
+	"Is Break Bedrock" = true
+	#Hammer form of endless pickaxe left click to delete box
+	"Is Remove Block" = false
+	#Endless bow scattering light arrow damage
+	#Range: 50 ~ 100000
+	"Sub Arrow Damage" = 10000
+	#Food effect time scaling factor
+	#Range: 0.1 ~ 5.0
+	"Food Time" = 1.0
+	#When endless weapons attack players with a full set of endless equipment, damage value will be caused
+	#Range: 4 ~ 100
+	"Infinity Armor Bear Damage" = 10
+	#Whether to merge matter cluster
+	"Is Merge Matter Cluster" = false
+	#Does the right key range attack of endless sword attack neutral creatures
+	"Is Sword Damage" = true
+	#When endless weapons attack a full set of endless equipment and players with endless weapons, they cause damage
+	#Range: 1 ~ 50
+	"Infinity Bear Damage" = 4
+	#Does the super mode of endless tools retain stone and soil
+	"Is Keep Stone" = true
+	#Endest pearl single attraction damage
+	#Range: 1 ~ 10
+	"Endest Pearl One Damage" = 5
+	#Whether to improve feedback when logging in to the game
+	"Is Logo Info" = true
+	#Upper limit of storage of a single item in a material group
+	#Range: 256 ~ 10240
+	"Matter Cluster Max Count" = 2048
+
+#Singularity Recipe Count
+[singularity]
+	#base count
+	#Range: 10 ~ 2000
+	Space = 50
+	#base count
+	#Range: 10 ~ 2000
+	Clay = 400
+	#base count
+	#Range: 10 ~ 2000
+	Gold = 350
+	#base count
+	#Range: 10 ~ 2000
+	Netherite = 150
+	#base count
+	#Range: 10 ~ 2000
+	Iron = 300
+	#base count
+	#Range: 10 ~ 2000
+	Diamond = 250
+	#base count
+	#Range: 10 ~ 2000
+	Quartz = 500
+	#base count
+	#Range: 10 ~ 2000
+	Ultra = 80
+	#base count
+	#Range: 10 ~ 2000
+	Dragon = 100
+	#base count
+	#Range: 10 ~ 2000
+	Zinc = 300
+	#base count
+	#Range: 10 ~ 2000
+	Redstone = 400
+	#base count
+	#Range: 10 ~ 2000
+	Silver = 200
+	#base count
+	#Range: 10 ~ 2000
+	Emerald = 200
+	#base count
+	#Range: 10 ~ 2000
+	Coal = 450
+	#base count
+	#Range: 10 ~ 2000
+	Lead = 300
+	#base count
+	#Range: 10 ~ 2000
+	Tin = 400
+	#base count
+	#Range: 10 ~ 2000
+	Lapis = 400
+	#base count
+	#Range: 10 ~ 2000
+	Nickel = 400
+	#base count
+	#Range: 10 ~ 2000
+	Xray = 150
+	#base count
+	#Range: 10 ~ 2000
+	Copper = 300
+	#base count
+	#Range: 10 ~ 2000
+	Ruby = 250
+
+#Mod Impact
+[modRatio]
+	#Maximum magnification after module influence
+	#Range: 5 ~ 50
+	"Mod Ratio Rate" = 20
+	#Maximum number of modules affected
+	#Range: 500 ~ 5000
+	"Mod Ratio Count" = 2000
+
+#Tool Range Mining Black List
+["black list"]
+	#Tool range mining blacklist as pickaxe as hoe
+	"Hoe Black List" = []
+	#Tool range mining blacklist as pickaxe
+	"Pickaxe Black List" = []
+	#Tool range mining blacklist as pickaxe as axe
+	"Axe Black List" = []
+	#Tool range mining blacklist as pickaxe as shovel
+	"Shovel Black List" = []
+
