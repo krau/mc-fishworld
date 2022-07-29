@@ -1,7 +1,5 @@
-*.exe
-/.minecraft/assets
-/.minecraft/libraries
-/.minecraft/versions/fishworld_V2/*
+/*
+!/readme.md
 !/.minecraft/versions/fishworld_V2/mods
 !/.minecraft/versions/fishworld_V2/resourcepacks
 !/.minecraft/versions/fishworld_V2/config
